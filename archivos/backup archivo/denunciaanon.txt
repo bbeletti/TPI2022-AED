@@ -1,0 +1,6 @@
+003|2022-12-09|Contaminacion|Villa Maria|Quema de residuos en el exterior|aprobado|Calamuchita|Ruta 10|Gaston Magni
+004|2022-12-10|deforestacion|Villa Maria|Quemó arboles en zonas prohibidas|programado|San Justo|Ruta 10|Pablo Castineira
+005|2022-12-10|Contaminacion|Villa Maria|Uso de agroquimicos en un aréa residencial|programado|Calamuchita|Ruta 10|Pablo Maschio
+006|2022-12-10|Contaminacion|Villa Maria|Contamino el rio Ctalamuchita con suero lactéo|programado|Calamuchita|Ruta 10|Pablo Maschio
+007|2022-12-11|Contaminacion|Villa Maria|Se le vio tirando quimicos al rio |programado|San Justo|Ruta 10|Gaston Magni
+008|2022-12-11|deforestacion|Villa Maria|Talo ejemplares nativos |programado|San Justo|Ruta 10|Pablo Maschio

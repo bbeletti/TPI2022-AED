@@ -1,0 +1,3 @@
+000|2022-12-09|Contaminacion|Villa Maria|Tiro residuos en un espacio publico|aprobado|Calamuchita|Ruta 10|Gaston Magni
+001|2022-12-09|Contaminacion|Villa Maria|Se le vio arrojando quimicos al rio|desaprobado|Calamuchita|Ruta 10|alejo chanquia
+002|2022-12-11|deforestacion|Villa Maria|Talo ejemplares nativos protegidos por las leyes|programado|San Justo|Ruta 10|Pablo Maschio
